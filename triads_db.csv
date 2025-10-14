@@ -1,0 +1,10 @@
+"name","smiles","properties","tags","created"
+"Fullerene (C60)","C1(C=C(C2=C34)CC(C2=C56)=CC7=C5C8=C9C%10=C7)=C3C%11=C%12C(CC%13=CC(C=C(C9=C%14C%15=C8C6=C4C%11=C%16%15)C%10)=C%14C%16=C%13%12)=C1","mw:720 g/mol;Sequential reduction potentials (vs. Fc) in toluene/acetonitrile (5.4 : 1)
+E1 = -0.98V
+E2 = -1.37V
+E3 = -1.87V
+E4 = -2.35V
+E5 = -2.85V
+E6 = -3.26V;g = 1.99
+No hyperfines.
+Temperature dependent ESR linewidth (due to relaxation).;https://doi.org/10.1021/cr980017o","Acceptor","2025-10-14T16:44:51.582Z-y35qje"
