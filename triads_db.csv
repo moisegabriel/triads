@@ -1,4 +1,8 @@
 "name","smiles","properties","tags","created"
+"Fullerene Carboxylic Acid Derivative","OC(C(C=C1)=CC=C1C2N(C)CC34=CC=C5C6=C3C7=C8C9=C%10C%11=C(C%12=C9C(C8=C6%13)=C%14C%15=C%12C%16=CC=C%15C%17=CC=C5C%13=C%14%17)C%16=CC=C%11C%18=CC=C42C7=C%18%10)=O","Sequential reduction potentials (vs. Fc) in 0.1 M TBAP o-DCB.
+E1= -1.17V
+E2 = -1.57V
+E3 = -2.12V;None reported.;https://doi.org/10.1021/jp911937d","Acceptor","2025-10-15T10:50:40.350Z-l5xlx6"
 "Fullerene (C60)","C1(C=C(C2=C34)CC(C2=C56)=CC7=C5C8=C9C%10=C7)=C3C%11=C%12C(CC%13=CC(C=C(C9=C%14C%15=C8C6=C4C%11=C%16%15)C%10)=C%14C%16=C%13%12)=C1","Sequential reduction potentials (vs. Fc) in toluene/acetonitrile (5.4 : 1)
 E1 = -0.98V
 E2 = -1.37V
@@ -7,6 +11,4 @@ E4 = -2.35V
 E5 = -2.85V
 E6 = -3.26V;g = 1.99
 No hyperfines.
-Temperature dependent ESR linewidth (due to relaxation).;https://doi.org/10.1021/cr980017o
-
-https://doi.org/10.1021/jp911937d","Acceptor","2025-10-15T10:21:12.038Z-bc3aw1"
+Temperature dependent ESR linewidth (due to relaxation).;https://doi.org/10.1021/cr980017o","Acceptor","2025-10-15T10:39:30.690Z-fak3b0"
